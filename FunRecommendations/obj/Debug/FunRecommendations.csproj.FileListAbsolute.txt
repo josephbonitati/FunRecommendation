@@ -1,0 +1,7 @@
+C:\Users\Joey\source\repos\FunRecommendations\FunRecommendations\bin\Debug\FunRecommendations.exe.config
+C:\Users\Joey\source\repos\FunRecommendations\FunRecommendations\bin\Debug\FunRecommendations.exe
+C:\Users\Joey\source\repos\FunRecommendations\FunRecommendations\bin\Debug\FunRecommendations.pdb
+C:\Users\Joey\source\repos\FunRecommendations\FunRecommendations\obj\Debug\FunRecommendations.csprojAssemblyReference.cache
+C:\Users\Joey\source\repos\FunRecommendations\FunRecommendations\obj\Debug\FunRecommendations.csproj.CoreCompileInputs.cache
+C:\Users\Joey\source\repos\FunRecommendations\FunRecommendations\obj\Debug\FunRecommendations.exe
+C:\Users\Joey\source\repos\FunRecommendations\FunRecommendations\obj\Debug\FunRecommendations.pdb
